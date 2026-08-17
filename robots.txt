@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-0dbh8v.hsteamid.com/sitemap.xml
